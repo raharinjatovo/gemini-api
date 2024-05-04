@@ -1,0 +1,14 @@
+{
+  "name": "gemini",
+  "version": "1.0.0",
+  "description": "gemini basic apis for queries ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mbolatiana Raharinjatovo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
